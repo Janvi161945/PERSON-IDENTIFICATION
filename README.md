@@ -22,7 +22,7 @@ If the distance is larger , images are different.
 * If the difference calculated is less than or equal to threshold then we consider it as same images.
 * If the difference calculated is greater than threshold then we consider it as different images.
 
-## Performance 
+## Threshold Analysis 
 
 ![image](https://user-images.githubusercontent.com/71075235/203345270-15d29362-5e66-4fd6-9c91-52548060171b.png)
 ![image](https://user-images.githubusercontent.com/71075235/203345320-123e0015-cad4-4e51-a593-ef7a19f0adc7.png)
