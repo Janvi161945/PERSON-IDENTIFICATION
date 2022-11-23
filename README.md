@@ -6,13 +6,12 @@ This is a repository for Facenet model in Keras, pretrained on imagnet & MS-Cele
 ## Quick start
 
 1. Install
- #With pip:
- pip install keras-facenet
+* #With pip:  pip install keras-facenet
  
-2. Run on Terminal
-On terminal give the 2 input images path & then the output will be displayed in form of distances.
-If the distance is smaller , images are same.
-If the distance is larger , images are different.
+2. Run on Terminal: 
+* On terminal give the 2 input images path & then the output will be displayed in form of distances.
+* If the distance is smaller , images are same.
+* If the distance is larger , images are different.
 
 ## Approach 
 * We have used Keras facenet model to extract embeddings from the input image.
